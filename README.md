@@ -1,1 +1,1 @@
-# Serverless-Edge-DNS-Gateway-v2
+# Serverless-Edge-DNS-Gateway-v2 - Beta
